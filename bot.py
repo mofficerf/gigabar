@@ -2,7 +2,7 @@ from re import findall
 from rubika import Bot
 import time
 
-bot = Bot("nebzczkyrvgvjotlnogmeqnqbhtxmaid")
+bot = Bot("tcfhehwiplalxsnvtsaucqtqfznjugyd")
 target = "g0BuzBn03a2f782151d0d84569f79190"
 
 # Coded By : github.com/HiByeDev ~ rubika -> @Develover
